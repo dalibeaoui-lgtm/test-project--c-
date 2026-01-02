@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <assert.h>
 #include <stdlib.h>
-#include "project.c"
+#include "test.c"
 
 void test_hash_map() {
     HashMap map = {0};
